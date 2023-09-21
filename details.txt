@@ -1,0 +1,11 @@
+
+
+//step-1;
+
+role- admin, canteen staff , cashier
+password for all three respectively;
+
+admin role - all role,
+canteen staff- not delete, update by price, 
+cashier- sale part
+
